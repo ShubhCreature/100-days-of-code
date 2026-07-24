@@ -1,11 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 1, 2024
+### Day 1: July 23, 2026
 
-**Today's Progress:** Worked on a weather app using React.
+**Today's Progress:** Learned basic syntax and done a Brand Name Generator Project
 
+**Thoughts:** Project based learning approach is cool.
 
-**Thoughts:** Hook logic is getting easier.
+### Day 2: July 24, 2026
 
-**Link to work:** [Weather App Repo](link)
+**Today's Progress:** Learned basic syntax and done a Tip Calculator Project
 
+**Thoughts:** baby steps
